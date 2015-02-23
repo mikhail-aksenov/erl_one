@@ -3,6 +3,7 @@
 ## Видеогайды по git и github:
 
 http://www.youtube.com/watch?v=2VQfRn1H8HE
+
 http://www.youtube.com/watch?v=dRxjXTE1hkM
 
 ## Задание 1
